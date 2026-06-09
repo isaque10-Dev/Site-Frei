@@ -17,7 +17,7 @@ header{
     background-color: white;
     width: 115em;
     height: 15em;
-    border-radius: 0 0 30em 5em;
+    border-radius: 0 0 20em 0;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -45,7 +45,7 @@ height: 13em;
 .pt1{
     width:50%;
     height: 45em;
-    background-color: blueviolet;
+    background-color: rgb(70, 43, 226);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -74,5 +74,5 @@ h1{
 .pre{
     width: 63.2em;
     height: 45em;
-    border-radius: 40em 0 10em 0;
+    border-radius: 0 0 10em 0;
 }
