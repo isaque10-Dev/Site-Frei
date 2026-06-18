@@ -37,16 +37,12 @@ html{
     font-size: 1.8em;
 }
 .teis{
-    display: flex;
-    margin-left: 6em;
-    align-items: center;
-    justify-content: center;
-    gap: 4em;
-   font-size: 1.8em;
-   background-color: gold;
-   border-radius: 10px;
-   height: 2.9em;
-    
+    position: relative;
+    font-size: 1.8em;
+    background-color: gold;
+    border-radius: 1rem;
+    color: rgb(0, 110, 255);
+    left: 8em;
 }
 
 header{
@@ -286,4 +282,14 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display: flex;
     justify-content: center;
     font-size: 1.5em;
+}
+.computaria{
+        width: 20rem;
+    height: 10rem;
+    border-radius: 2rem 2rem 0 0;
+}
+.sabedoria{
+     width: 20rem;
+    height: 10rem;
+    border-radius: 2rem 2rem 0 0;
 }
